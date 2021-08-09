@@ -6,4 +6,4 @@ Find and download the following data sets:
 [Sales data](https://www.kaggle.com/gregorut/videogamesales) -  from more than 16,500 games
 [Cycle Share Data set](https://www.kaggle.com/pronto/cycle-share-dataset) - Bicycle Trip Data from Seattle’s Cycle Share System
 
-## PR:
+## PR: https://github.com/RoaaMustafa/vg-stats/pull/1
